@@ -1,0 +1,4 @@
+name = "ModuleA"
+uuid = "e377f4b9-9fa5-472a-a619-d92eb82a30b7"
+authors = ["Frankie"]
+version = "0.1.0"
